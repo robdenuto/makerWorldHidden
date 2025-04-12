@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Display Hidden Model IDs on MakerWorld Collections
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/robdenuto/makerWorldHidden/
 // @version      0.3
 // @description  Displays hidden model IDs from MakerWorld collection pages as hyperlinks
-// @author       You
+// @author       robdenuto
 // @match        https://makerworld.com/en/collections/*
 // @grant        none
 // ==/UserScript==
