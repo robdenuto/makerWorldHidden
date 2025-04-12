@@ -72,7 +72,7 @@
     container.style.zIndex = "1000";
 
     const title = document.createElement("p");
-    title.textContent = "Hidden Model IDs:";
+    title.textContent = "Hidden Model ID(s):";
     container.appendChild(title);
 
     const list = document.createElement("ul");
