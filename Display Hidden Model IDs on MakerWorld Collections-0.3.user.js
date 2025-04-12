@@ -4,7 +4,7 @@
 // @version      0.3
 // @description  Displays hidden model IDs from MakerWorld collection pages as hyperlinks
 // @author       robdenuto
-// @match        https://makerworld.com/en/collections/*
+// @match        https://makerworld.com/*/collections/*
 // @grant        none
 // ==/UserScript==
 
